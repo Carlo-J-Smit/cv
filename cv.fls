@@ -146,6 +146,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/inter/T1Inter-TLF.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/inter/T1Inter-TLF.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/inter/T1Inter-TLF.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/inter/Inter-Regular-tlf-t1.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
 INPUT ./cv.aux
 INPUT ./cv.aux
 INPUT cv.aux
