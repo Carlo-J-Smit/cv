@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1788786037.39591 "/home/carlo/Documents/git/cv/cv.tex" "cv.pdf" "cv" 1788786037.90982 0
+["pdflatex"] 1788787356.84547 "/home/carlo/Documents/git/cv/cv.tex" "cv.pdf" "cv" 1788787357.38843 0
   "/etc/texmf/web2c/texmf.cnf" 1754769906.4384 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/carlo/Documents/git/cv/cv.tex" 1788786037.22489 10589 c7c398d92c2affcd08f794f8e0e9d347 ""
+  "/home/carlo/Documents/git/cv/cv.tex" 1788787357.19345 10192 aebf6cbf9021183f29d72a8c1f35a59b ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1622837620 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
@@ -118,9 +118,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1754769918.26581 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1754769944 8212645 a878dca695a3b06d227789e08b4b9ef6 ""
-  "cv.aux" 1788786037.81523 921 cf753508d43620c773438e09ccdd0f6a "pdflatex"
-  "cv.out" 1788786037.81523 710 703efe83de990278e47443b651653169 "pdflatex"
-  "cv.tex" 1788786037.22489 10589 c7c398d92c2affcd08f794f8e0e9d347 ""
+  "cv.aux" 1788787357.27776 921 cf753508d43620c773438e09ccdd0f6a "pdflatex"
+  "cv.out" 1788787357.27876 710 703efe83de990278e47443b651653169 "pdflatex"
+  "cv.tex" 1788787357.19345 10192 aebf6cbf9021183f29d72a8c1f35a59b ""
   (generated)
   "cv.aux"
   "cv.log"
